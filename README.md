@@ -2,6 +2,11 @@
 #### Design and Development
 I'm GIDEON ATAUBA a front-end developer, experienced in building user interfaces with responsive web interfaces, With a keen eye for design and a focus on accessibility, I ensure seamless interactions across devices and browsers and also transform ideas into visually appealing and responsive websites.
 
+## Skills and Experience
+> ⚛ REACT
+> 💻 JAVASCRIPT
+> 🖥 HTML / CSS 
+
 Skills:  REACT / JAVASCRIPT / HTML / CSS / GitHub 
 
 - 🔭 I’m currently working on Continuously enhancing web development proficiency through ongoing self-study and hands-on projects. 

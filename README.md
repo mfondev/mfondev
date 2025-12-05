@@ -7,7 +7,7 @@ I'm GIDEON ATAUBA a front-end developer, experienced in building user interfaces
 > 💻 JAVASCRIPT
 > 🖥 HTML / CSS 
 
-Skills:  REACT / JAVASCRIPT / HTML / CSS / GitHub 
+Skills:  REACT / JAVASCRIPT / HTML / CSS / GitHub / Next Js / React Native / Typescript / GSAP / CMS / SANITY
 
 - 🔭 I’m currently working on continuously enhancing web development proficiency through ongoing self-study and hands-on projects. 
 

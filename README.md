@@ -1,6 +1,6 @@
-### Hi there 👋, My name is Gideon Atauba
+
 #### Design and Development
-I'm GIDEON ATAUBA a front-end developer, experienced in building user interfaces with responsive web interfaces, With a keen eye for design and a focus on accessibility, I ensure seamless interactions across devices and browsers and also transform ideas into visually appealing and responsive websites.
+Software Engineer with 6+ years of experience building web and mobile applications for diverse industries. Over the years, I have successfully taken projects from design handoff through development and deployment, delivering scalable, maintainable, and well-structured applications using React, Next.js, TypeScript, Node.js, Express, Prisma, and PostgreSQL. I collaborate effectively with designers, product teams, and other departments to turn requirements into reliable, user-focused products, while maintaining clear communication, meeting deadlines, and applying critical analysis to code quality, performance, and security.
 
 ## Skills and Experience
 > ⚛ REACT

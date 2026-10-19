@@ -20,8 +20,3 @@ Software Engineer with 6+ years of experience building web and mobile applicatio
 - 🔭 I’m currently working on continuously enhancing web development proficiency through ongoing self-study and hands-on projects. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mfondev) 
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mfondev)  
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfondev)](https://github.com/anuraghazra/github-readme-stats)
